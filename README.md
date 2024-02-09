@@ -1,4 +1,4 @@
-# Cyclistic Bike-Share Analysis Documentation
+# Cyclistic Bike-Share Analysis 
 
 ## Background
 
@@ -32,4 +32,4 @@ A significant limitation of the dataset is the presence of missing values, which
 
 ## Conclusion
 
-This documentation provides a comprehensive overview of the data analysis process, key findings, and recommendations for Cyclistic's marketing strategy. By leveraging insights from historical trip data, the marketing team can devise targeted campaigns to achieve the goal of increasing annual memberships and driving future growth for the company.
+This project provides a comprehensive overview of the data analysis process, key findings, and recommendations for Cyclistic's marketing strategy. By leveraging insights from historical trip data, the marketing team can devise targeted campaigns to achieve the goal of increasing annual memberships and driving future growth for the company.
